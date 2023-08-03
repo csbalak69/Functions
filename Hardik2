@@ -1,0 +1,4 @@
+def sq(x=10,a=1):
+    sie=x/2*(2*a+(x-1)*a)
+    return sie
+print(sq(10))

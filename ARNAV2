@@ -1,0 +1,8 @@
+def sum(x):
+    a=1
+    d=1
+    add=x/2*(2*a+(x-1)*d)
+    return add
+
+
+print(sum(10))

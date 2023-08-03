@@ -1,0 +1,7 @@
+def su(n):
+      a=1
+      d=1
+      sn= (n/2)*(2*a+(n-1)*d)
+      return sn
+print(su(10))
+      

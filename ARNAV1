@@ -1,0 +1,12 @@
+a=int(input("ENTER RANGE : "))
+
+def check(x):
+    if x%2==0:
+        numb="Even"
+    else :
+        numb="Odd"
+    return numb
+
+i=0
+for i in range(a):
+    print(i,check(i))

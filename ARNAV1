@@ -1,3 +1,4 @@
+
 a=int(input("ENTER RANGE : "))
 
 def check(x):
